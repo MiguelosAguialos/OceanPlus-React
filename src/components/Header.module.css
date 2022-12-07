@@ -1,0 +1,15 @@
+.header {
+    background-color: rgb(59, 59, 59);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;
+}
+
+.header img {
+    height: 2rem;
+}
+
+.header strong {
+    align-self: flex-end;
+    font-size: 20px;
+}

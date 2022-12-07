@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "produto": "Camiseta",
+        "descricao": "Tamanho: M, Cores: Preta e branca, Marca: Nike",
+        "quantidade": "100"
+        
+    },
+    {
+        "id": 2,
+        "produto": "Camiseta",
+        "descricao": "Tamanho: M, Cores: Preta e branca, Marca: Nike",
+        "quantidade": "100"
+        
+    },
+    {
+        "id": 3,
+        "produto": "Camiseta",
+        "descricao": "Tamanho: M, Cores: Preta e branca, Marca: Nike",
+        "quantidade": "100"
+        
+    }
+]

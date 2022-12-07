@@ -1,0 +1,32 @@
+body {
+  background: #191919;
+  color: #e1e1f6;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  background-color: #8257e6;
+  border: 0;
+  padding: 6px 12px;
+  color: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 10px;
+}
+
+input {
+  margin: 10px;
+  height: 20px;
+  border-radius: 6px;
+  border: none;
+}
+
+img{
+  height: 350px;
+  border-radius: 10px;
+}
+
+.wrapper{
+  display: grid;
+}

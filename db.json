@@ -1,0 +1,18 @@
+{
+  "catalogo": [
+    {
+      "produto": "Calça Jeans",
+      "descricao": "Calça excelente",
+      "quantidade": "500",
+      "imagem": "https://www.invictus.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/e/legion-azul-frente.jpg",
+      "id": 1
+    },
+    {
+      "produto": "Aspirador de pó",
+      "descricao": "Aspirador mecânico super barato",
+      "quantidade": "750 ",
+      "imagem": "https://cdn.leroymerlin.com.br/categories/aspirador_de_po_46f7_300x300.jpg",
+      "id": 4
+    }
+  ]
+}
