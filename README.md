@@ -7,6 +7,6 @@ Como abrir o projeto e ver ele funcioando:
   3. Após isso, rode o código "npm run back" para conseguir ativar o json server, simulando uma api
   4. Por fim, realize "npm start" também para rodar o projeto react.
   
-Para acessar o JSON -> http://localhost:3000/
-Para acessar o site -> http://localhost:3001/
+Para acessar o JSON -> http://{ipMáquina}:3000/
+Para acessar o site -> http://{ipMáquina}:3001/
   
