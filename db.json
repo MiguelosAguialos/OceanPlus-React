@@ -1,18 +1,44 @@
 {
   "catalogo": [
     {
-      "produto": "Calça Jeans",
-      "descricao": "Calça excelente",
-      "quantidade": "500",
-      "imagem": "https://www.invictus.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/e/legion-azul-frente.jpg",
+      "produto": "Aspirador de pó",
+      "descricao": "Leve e econômico",
+      "quantidade": "300",
+      "imagem": "https://imgs.casasbahia.com.br/55018241/1xg.jpg?imwidth=500",
+      "preco": "49.99",
+      "id": 2
+    },
+    {
+      "produto": "Camiseta Azul do Brasil",
+      "descricao": "Muito bonita",
+      "quantidade": "120",
+      "imagem": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/409/577/products/camisa-reserva-da-selecao-brasileira-2022-nike-away-kit-2-azul-masculina-copa-do-mundo-qatar-neymar-onca-pintada-torcedor-brasil-hexa-tite-vinijr-11-b3bb0773f9b500d9d616611183097552-640-0.jpg",
+      "preco": "79.99",
+      "id": 3
+    },
+    {
+      "produto": "Bola de Futebol",
+      "descricao": "Redonda",
+      "quantidade": "120",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/734952/bola_adidas_fc_copa_do_mundo_2022_replica_c_caixa_branca_azul_e_coral_4387_1_744773cb404c16dee204c0adef0e3318.jpg",
+      "preco": "250.00",
+      "id": 4
+    }
+  ],
+  "carrinho": [
+    {
+      "nome": "Aspirador de pó",
+      "descricao": "Leve e econômico",
+      "imagem": "https://imgs.casasbahia.com.br/55018241/1xg.jpg?imwidth=500",
+      "preco": "49.99",
       "id": 1
     },
     {
-      "produto": "Aspirador de pó",
-      "descricao": "Aspirador mecânico super barato",
-      "quantidade": "750 ",
-      "imagem": "https://cdn.leroymerlin.com.br/categories/aspirador_de_po_46f7_300x300.jpg",
-      "id": 4
+      "nome": "Bola de Futebol",
+      "descricao": "Redonda",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/734952/bola_adidas_fc_copa_do_mundo_2022_replica_c_caixa_branca_azul_e_coral_4387_1_744773cb404c16dee204c0adef0e3318.jpg",
+      "preco": "250.00",
+      "id": 2
     }
   ]
 }
